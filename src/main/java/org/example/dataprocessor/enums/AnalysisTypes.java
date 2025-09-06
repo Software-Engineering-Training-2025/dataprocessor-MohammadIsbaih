@@ -1,5 +1,5 @@
 package org.example.dataprocessor.enums;
-public enum AnalysisType {
+public enum AnalysisTypes {
     /** Arithmetic average; empty -> NaN */
     MEAN,
 
