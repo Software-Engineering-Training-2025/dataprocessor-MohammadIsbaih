@@ -1,6 +1,6 @@
 package org.example.dataprocessor.enums;
 
-public enum CleaningType {
+public enum CleaningTypes {
     /** Drop all values < 0 */
     REMOVE_NEGATIVES,
 

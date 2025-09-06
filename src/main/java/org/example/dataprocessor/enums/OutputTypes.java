@@ -1,6 +1,6 @@
 package org.example.dataprocessor.enums;
 
-public enum OutputType {
+public enum OutputTypes {
     /** Print "Result = <value>" to stdout */
     CONSOLE,
 
